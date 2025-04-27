@@ -1,0 +1,24 @@
+/* style.css */
+.stApp {
+    background-color: #f5f7fa;
+    font-family: 'Arial';
+}
+
+.result {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.real {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.fake {
+    background-color: #f8d7da;
+    color: #721c24;
+}
