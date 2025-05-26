@@ -1,9 +1,10 @@
 streamlit==1.44.1
-tensorflow==2.15.0
-numpy==2.2.1
-opencv-contrib-python==4.11.0.86
-pillow==11.2.1
+tensorflow==2.10.0
+numpy
+opencv-python-headless
+pillow
 pytesseract==0.3.13
 scikit-learn==1.6.1
 matplotlib==3.10.1
 rich==14.0.0
+streamlit==1.44.1
